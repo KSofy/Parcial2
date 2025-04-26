@@ -1,0 +1,5 @@
+C:\Users\Melgar\source\repos\MinecraftManagerUI\MinecraftManagerUI\obj\Debug\MinecraftManagerUI.csproj.AssemblyReference.cache
+C:\Users\Melgar\source\repos\MinecraftManagerUI\MinecraftManagerUI\obj\Debug\MinecraftManagerUI.Form1.resources
+C:\Users\Melgar\source\repos\MinecraftManagerUI\MinecraftManagerUI\obj\Debug\MinecraftManagerUI.Properties.Resources.resources
+C:\Users\Melgar\source\repos\MinecraftManagerUI\MinecraftManagerUI\obj\Debug\MinecraftManagerUI.csproj.GenerateResource.cache
+C:\Users\Melgar\source\repos\MinecraftManagerUI\MinecraftManagerUI\obj\Debug\MinecraftManagerUI.csproj.CoreCompileInputs.cache
